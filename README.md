@@ -1,5 +1,5 @@
 # VIRA BOT WA TERMUX
-BOT WHATSAPP TERMUX ONLY BY ARIS187 ID
+BOT WHATSAPP TERMUX ONLY BY FERDIZ-AFK
 
 ### Alat dan Bahan
 Siapin alat dan bahannya.
@@ -60,10 +60,11 @@ Script ini di modifikasi sama saya sendiri Aris187 ID.
 |       ✅       | Donate                           |
 
 ## Note
-BOT INI KHUSUS HP/TERMUX DOANG YAH,JIKA MAU RE-UPLOAD CANTUMKAN NAMA SAYA (ARIS187 ID)
+BOT INI KHUSUS HP/TERMUX DOANG YAH,JIKA MAU RE-UPLOAD CANTUMKAN NAMA SAYA (FERDIZ-AFK)
 
 ## Sosial Media Admin
-* [`Youtube Admin`](https://www.youtube.com/channel/UCGYLWtyT9IADYNUiK0uZiGg)
-* [`Instagram Admin`](https://instagram.com/_sadboy.ig)
-* [`WhatsApp Admin `](https://wa.me/+6285722553839)
+* [`Youtube Admin`]( )
+* [`Instagram Admin`]( )
+* [`WhatsApp Admin `](https://wa.me/+6287877173955)
+
 
