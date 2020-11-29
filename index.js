@@ -1,12 +1,12 @@
 /*
 * "Jangan modal nama doang bro!!!"
-* (Scriptnya Aris187 ID).
+* (Scriptnya FERDIZ-afk).
 */
 const BotName = 'VIRA'; // Nama Bot Whatsapp
-const instagramlu = 'ngak gwe kasih takut ada yang ngehack'; // Nama Instagramlu cok
-const whatsapplu = 'Wa.me/+6285722553839'; // Nomor whatsapplu cok
+const instagramlu = 'takut ada yang ngehack'; // Nama Instagramlu cok
+const whatsapplu = 'Wa.me/+6287877173955'; // Nomor whatsapplu cok
 const kapanbotaktif = 'Tergantung jaringan'; // Kapan bot lu aktif
-const grupch1 = 'https://chat.whatsapp.com/GU6NsgZvfgw37vrjIxUPhP'; // OFFICIAL GRUP LU 1
+const grupch1 = 'https://chat.whatsapp.com/CXLFv9R7S2O6YsOguCEqK4'; // OFFICIAL GRUP LU 1
 const grupch2 = ' '; // OFFICIAL GRUP LU 2
 const grupch3 = ' '; // OFFICIAL GRUP LU 3
 //
@@ -245,7 +245,6 @@ if (text.includes('.nulis')){
         })
     })
 }
-
 
 if (text.includes(".say")){
   const teks = text.replace(/.say /, "")
@@ -897,8 +896,7 @@ if (text.includes(".alay")){
 	})
 }
 
-//Tolonglah bro jangan di ubah ubah Aris187 ID
-
+//Tolonglah bro jangan di ubah ubah scripnya ya kecuali di bangian titik untuk memanggil si program contoh .menu cuk /.info/ .donasi /\ itu bisa di ganti ya
 
 })
 
