@@ -42,7 +42,7 @@ Script ini di modifikasi sama saya sendiri FERDIZ-AFK.
 |       ✅       | Youtube Downloader               |
 |       ✅       | Quotes                           |
 |       ✅       | Nama (new)                       |
-|       ✅       | Foto Anime                       |
+|       ✅       | 18+anime                       |
 |       ✅       | Pasangan (new)                   |
 |       ✅       | Sholat (new )                    |
 |       ✅       | Suara Google (fix)               |
