@@ -1,5 +1,5 @@
 {
-  "name": "AR15BOT",
+  "name": "FERDIZ-afk",
   "version": "1.0.0",
   "description": "Termux only",
   "main": "index.js",
@@ -29,15 +29,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/aris187id/AR15BOT.git"
+    "url": "git+https://github.com/FERDIZ-afk/botvira.git"
   },
   "keywords": [
     "k"
   ],
-  "author": "Abdul Muttaqin",
+  "author": "FERDIZ-afk",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/aris187id/AR15BOT/issues"
+    "url": "https://github.com/FERDIZ-afk/botvira/issues"
   },
-  "homepage": "https://github.com/aris187id/AR15BOT#readme"
+  "homepage": "https://github.com/FERDIZ-afk/botvira#readme"
 }
