@@ -10,7 +10,7 @@ BOT WHATSAPP TERMUX ONLY BY FERDIZ-AFK
 <a href="#"><img title="FERDIZ-afk" src="https://img.shields.io/badge/FERDIZ_afk-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 
 <p align="center">
-<a href="https://github.com/A187ID"><img title="Author" src="https://img.shields.io/badge/AUTHOR-FERDIZ afk-orange.svg?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/FERDIZ-afk"><img title="Author" src="https://img.shields.io/badge/AUTHOR-FERDIZ afk-orange.svg?style=for-the-badge&logo=github"></a>
 
 
 </p>
