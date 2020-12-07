@@ -1,6 +1,6 @@
-# VIRA BOT WA TERMUX
+# VIRA BOT WA TERMUX <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="32px">
 BOT WHATSAPP TERMUX ONLY BY FERDIZ-AFK
-<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> I'm Aris187 ID
+
 
 <p align="center">
 
