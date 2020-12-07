@@ -6,12 +6,7 @@ BOT WHATSAPP TERMUX ONLY BY FERDIZ-AFK
 
 <img src="https://raw.githubusercontent.com/FERDIZ-afk/botvira/main/temp/IMG-20201204-WA0265.jpg" width="440" height="540"/>
 
-
 <a href="#"><img title="👾AR15BOT👾" src="https://img.shields.io/badge/AR15BOT-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
-
-</p>
-
-<p align="center">
 
 <a href="https://github.com/A187ID"><img title="Author" src="https://img.shields.io/badge/AUTHOR-ARIS187 ID-orange.svg?style=for-the-badge&logo=github"></a>
 
