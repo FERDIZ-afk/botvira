@@ -4,7 +4,7 @@ BOT WHATSAPP TERMUX ONLY BY FERDIZ-AFK
 
 <p align="center">
 
-<img src="https://raw.githubusercontent.com/FERDIZ-afk/botvira/main/temp/IMG-20201204-WA0265.jpg" width="440" height="540"/>
+<img src="https://github.com/FERDIZ-afk/botvira/blob/main/temp/IMG-20201204-WA0265.jpg" width="440" height="540"/>
 
 <p align="center">
 <a href="#"><img title="FERDIZ-afk" src="https://img.shields.io/badge/FERDIZ_afk-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
