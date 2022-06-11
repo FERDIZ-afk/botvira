@@ -1146,6 +1146,8 @@ if (text.includes(".alay")){
 }
 
 //Tolonglah bro jangan di ubah ubah scripnya ya kecuali di bangian titik untuk memanggil si program contoh .menu cuk /.info/ .donasi /\ itu bisa di ganti ya
+//tanks yang usah makek sc ini ya
 
 })
 
+//script old );
